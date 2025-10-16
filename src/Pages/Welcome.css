@@ -1,0 +1,68 @@
+.welcome-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f9fafb;
+  padding: 24px;
+  text-align: center;
+}
+
+.welcome-header {
+  margin-bottom: 48px;
+}
+
+.welcome-logo {
+  font-family: 'Poppins', sans-serif; 
+  font-weight: 700;
+  font-size: 48px;
+  color: #0D9488; 
+}
+
+.welcome-header h1 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #111827;
+  margin: 16px 0 8px 0;
+}
+
+.welcome-header p {
+  font-size: 18px;
+  color: #6b7280;
+  margin: 0;
+}
+
+.welcome-actions {
+  margin-top: -24px;
+  width: 100%;
+  max-width: 320px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.welcome-button {
+  width: 100%;
+  padding: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 16px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  border: 2px solid transparent;
+}
+
+.welcome-button.primary {
+  background-color: #0D9488;
+  color: white;
+}
+
+.welcome-button.secondary {
+  background-color: white;
+  color: #374151;
+  border-color: #e5e7eb;
+}
