@@ -19,48 +19,20 @@
 <h3>O Projeto</h3>
 
 O BemVo nasceu com uma missão clara: simplificar a rotina de medicação para idosos e dar paz de espírito aos seus cuidadores.
+Sabemos que a adesão ao tratamento é um desafio e apps comuns são complexos demais. O BemVo resolve isso com uma interface adaptativa:
 
-Sabemos que a adesão ao tratamento é um desafio. Apps comuns são complexos demais. O BemVo resolve isso com uma interface adaptativa:
+- Modo Paciente & Modo Cuidador
 
-👵 Modo Paciente
+- Botões grandes e contraste.
 
-🧑‍⚕️ Modo Cuidador
+- "Tomar remédio" em um toque.
 
-Botões gigantes e alto contraste.
+- Cadastro de remédios e horários.
 
-Dashboard completo de gestão.
+- Sem distrações ou menus complexos.
 
-"Tomar remédio" em um toque.
+- Histórico de adesão em tempo real.
 
-Cadastro de remédios e horários.
-
-Sem distrações ou menus complexos.
-
-Histórico de adesão em tempo real.
-
-<br/>
-
-<h3>UI/UX Highlights</h3>
-
-O design foi o coração deste projeto, focado na acessibilidade (WCAG):
-
-- Acessibilidade Radical: Cores testadas para daltonismo e áreas de toque >60px.
-
-- Alertas Inteligentes: Notificações que escalam de lembretes suaves para alertas ao cuidador.
-
-- Feedback Positivo: Animações calorosas ao completar tarefas para incentivo positivo.
-
-<br/>
-
-<h3>Tecnologias</h3>
-
-Core: React + Vite
-
-Estilos: Tailwind CSS (foco em responsividade)
-
-Ícones: Phosphor Icons
-
-Gestão de Estado: React Context API
 
 <br/>
 
