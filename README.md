@@ -38,7 +38,8 @@ Sabemos que a adesão ao tratamento é um desafio e apps comuns são complexos d
 
 
 <div align="center">
-Feito com 💜 por <strong>Emily Augusto</strong>
+Feito com 🩵 por <strong>Emily Augusto</strong>
 <br />
-<a href="https://www.google.com/search?q=https://linkedin.com/in/emilyaugusto">LinkedIn</a> • <a href="#">Contato</a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/emilyaugusto">LinkedIn</a> • <a href="https://mail.google.com/mail/?view=cm&fs=1&to=emilyaugustocontato@gmail.com">Contato</a>
+
 </div>
